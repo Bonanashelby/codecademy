@@ -1,7 +1,7 @@
 # codecademy
 CodeCademy Pre-work for Python 401 
 
-### This is the pre-work code for the CodeCademy Python course;
+### This is the pre-work code for the CodeCademy Python course:
 
 * Unit 3 - Pyglatin
 * Unit 4 - Taking a Vacation 
